@@ -14,4 +14,6 @@ pip install -r requirements.txt
 python3 runner.py
 ```
 ## Contributing
-I look forward to receiving comments as well as new directions for the problem.
+
+* You can run and see the results like two pictures I have posted, one for AI bot's win and one for AI bot's loss.
+* I look forward to receiving comments as well as new development directions for the problem.
